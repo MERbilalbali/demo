@@ -1,0 +1,28 @@
+header {
+   width: 10%;
+   float: left;
+   
+}
+
+#anchor {
+   display: flex;
+   justify-content: space-around;
+   text-align: center;
+   list-style: none;
+  
+}
+
+.container {
+   height: 100px;
+   width: 90%;
+   background-color: darkgray;
+   float: right;
+   display: flex;
+   align-items: center;
+   justify-content: space-around; 
+   
+}
+a{
+   text-decoration: none;
+   
+}
